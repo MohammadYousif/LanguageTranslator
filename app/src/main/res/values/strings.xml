@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Translators</string>
+    <string name="translate_btn">Translate</string>
+    <string name="smart_reply_error">The conversation\'s language isn\'t supported, so the result doesn\'t contain any suggestions.</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="from">From</string>
+    <string name="getting_ready">Getting ready....</string>
+</resources>
